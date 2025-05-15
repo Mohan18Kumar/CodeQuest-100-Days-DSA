@@ -12,7 +12,7 @@
       "last_points_date": "2025-04-16T18:17:37.231516+00:00"
     },
     "winsome-nandini": {
-      "points": 72,
+      "points": 18,
       "social_media_points": 10,
       "last_points_date": "2025-04-20T17:00:39.081403+00:00"
     },
@@ -37,7 +37,7 @@
       "last_points_date": "2025-04-29T01:33:56.555004+00:00"
     },
     "ABUZAR-2003": {
-      "points": 127,
+      "points": 27,
       "social_media_points": 0,
       "last_points_date": "2025-04-20T17:00:39.081403+00:00"
     },
@@ -1555,7 +1555,29 @@
       "pr_number": 416,
       "date": "2025-04-30T18:45:49.056529+00:00",
       "reason": "Daily PR Challenge: PR #416"
+    },
+    {
+      "username": "winsome-nandini",
+      "points": 3,
+      "pr_number": 424,
+      "date": "2025-05-15T18:46:59.789746+00:00",
+      "reason": "Daily PR Challenge: PR #424"
+    },
+    {
+      "username": "ABUZAR-2003",
+      "points": 3,
+      "pr_number": 423,
+      "date": "2025-05-15T18:47:06.528591+00:00",
+      "reason": "Daily PR Challenge: PR #423"
     }
-  ]
+  ],
+  "metadata": {
+    "event": "Daily PR Challenge",
+    "points_per_pr": 3,
+    "event_start_date": "2025-04-01",
+    "total_participants": 31,
+    "total_points_distributed": 1817
+  },
+  "total_points": 1817,
+  "last_updated": "2025-05-15T19:25:01.223815+00:00"
 }
-
