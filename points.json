@@ -12,7 +12,7 @@
       "last_points_date": "2025-04-16T18:17:37.231516+00:00"
     },
     "winsome-nandini": {
-      "points": 84,
+      "points": 21,
       "social_media_points": 10,
       "last_points_date": "2025-04-20T17:00:39.081403+00:00"
     },
@@ -134,7 +134,7 @@
       "last_points_date": "2025-04-29T18:26:26.604399+00:00"
     },
     "krishna-00001": {
-      "points": 93,
+      "points": 6,
       "social_media_points": 0,
       "last_points_date": "2025-05-16T18:55:36.053760+00:00"
     },
@@ -1569,6 +1569,20 @@
       "pr_number": 423,
       "date": "2025-05-15T18:47:06.528591+00:00",
       "reason": "Daily PR Challenge: PR #423"
+    },
+    {
+      "username": "winsome-nandini",
+      "points": 3,
+      "pr_number": 427,
+      "date": "2025-05-17T18:43:30.656706+00:00",
+      "reason": "Daily PR Challenge: PR #427"
+    },
+    {
+      "username": "krishna-00001",
+      "points": 3,
+      "pr_number": 426,
+      "date": "2025-05-17T18:43:38.460454+00:00",
+      "reason": "Daily PR Challenge: PR #426"
     }
   ],
   "metadata": {
@@ -1576,8 +1590,8 @@
     "points_per_pr": 3,
     "event_start_date": "2025-04-01",
     "total_participants": 31,
-    "total_points_distributed": 1817
+    "total_points_distributed": 1742
   },
-  "total_points": 1892,
-  "last_updated": "2025-05-16T19:21:38.794487+00:00"
+  "total_points": 1742,
+  "last_updated": "2025-05-17T19:19:02.129499+00:00"
 }
