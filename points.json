@@ -1556,6 +1556,14 @@
       "date": "2025-04-30T18:45:49.056529+00:00",
       "reason": "Daily PR Challenge: PR #416"
     }
-  ]
+  ],
+  "total_points": 1971,
+  "last_updated": "2025-05-17T19:20:26.956967+00:00",
+  "metadata": {
+    "event": "April 1-5 PR Challenge",
+    "points_per_pr": 3,
+    "max_points": 15,
+    "calculated_at": "2025-05-18T00:55:37.939123+00:00",
+    "total_participants": 31
+  }
 }
-
