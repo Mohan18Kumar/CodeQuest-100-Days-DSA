@@ -1,7 +1,7 @@
 {
   "users": {
     "22MH1A04H3": {
-      "points": 127,
+      "points": 36,
       "social_media": "",
       "social_media_points": 0,
       "last_points_date": "2025-04-29T18:26:26.604399+00:00"
@@ -134,7 +134,7 @@
       "last_points_date": "2025-04-29T18:26:26.604399+00:00"
     },
     "krishna-00001": {
-      "points": 9,
+      "points": 12,
       "social_media_points": 0,
       "last_points_date": "2025-05-16T18:55:36.053760+00:00"
     },
@@ -1590,6 +1590,20 @@
       "pr_number": 428,
       "date": "2025-05-18T18:43:11.674171+00:00",
       "reason": "Daily PR Challenge: PR #428"
+    },
+    {
+      "username": "krishna-00001",
+      "points": 3,
+      "pr_number": 432,
+      "date": "2025-05-19T18:46:52.883621+00:00",
+      "reason": "Daily PR Challenge: PR #432"
+    },
+    {
+      "username": "22MH1A04H3",
+      "points": 3,
+      "pr_number": 431,
+      "date": "2025-05-19T18:46:58.616424+00:00",
+      "reason": "Daily PR Challenge: PR #431"
     }
   ],
   "metadata": {
@@ -1597,8 +1611,8 @@
     "points_per_pr": 3,
     "event_start_date": "2025-04-01",
     "total_participants": 31,
-    "total_points_distributed": 1745
+    "total_points_distributed": 1657
   },
-  "total_points": 1745,
-  "last_updated": "2025-05-18T19:18:52.035295+00:00"
+  "total_points": 1657,
+  "last_updated": "2025-05-19T19:22:34.003747+00:00"
 }
