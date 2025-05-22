@@ -1606,13 +1606,5 @@
       "reason": "Daily PR Challenge: PR #431"
     }
   ],
-  "metadata": {
-    "event": "Daily PR Challenge",
-    "points_per_pr": 3,
-    "event_start_date": "2025-04-01",
-    "total_participants": 31,
-    "total_points_distributed": 1657
-  },
-  "total_points": 1657,
-  "last_updated": "2025-05-21T19:22:42.585274+00:00"
+
 }
