@@ -3,7 +3,7 @@ class Node:
         self.data = data
         self.next = next
 
-def Linked_list(num):
+def linked_list(num):
     if not num:
         return None
     head = Node(num[0])
@@ -21,5 +21,5 @@ def print_list(head):
         current = current.next
     print()
 number = list(map(int,input("Enter numbers: ").split()))
-head = Linked_list(number)
+head = linked_list(number)
 print_list(head)
