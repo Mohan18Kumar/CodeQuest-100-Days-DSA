@@ -14,11 +14,11 @@
     "Abhishek05eccs": 15,
     "digambarsingh14": 15,
     "Harshit-Ram": 15,
-    "Aditya-KumarEC": 9,
-    "User8085": 9,
+    "Aditya-KumarEC": 12,
+    "User8085": 12,
     "bhumikadixit05": 15,
-    "Samriddhiii89": 9,
-    "ayushman2710": 9,
+    "Samriddhiii89": 12,
+    "ayushman2710": 12,
     "Abhishek-Sharma182005": 15
   },
   "history": [
@@ -665,13 +665,41 @@
       "date": "2025-04-01T17:20:05+00:00",
       "pr_number": 23,
       "reason": "April 1-5 Event: 3 points for PR #23"
+    },
+    {
+      "username": "Aditya-KumarEC",
+      "points": 3,
+      "date": "2025-04-03T16:09:50+00:00",
+      "pr_number": 58,
+      "reason": "April 1-5 Event: 3 points for PR #58"
+    },
+    {
+      "username": "User8085",
+      "points": 3,
+      "date": "2025-04-03T08:15:51+00:00",
+      "pr_number": 54,
+      "reason": "April 1-5 Event: 3 points for PR #54"
+    },
+    {
+      "username": "Samriddhiii89",
+      "points": 3,
+      "date": "2025-04-01T17:33:23+00:00",
+      "pr_number": 27,
+      "reason": "April 1-5 Event: 3 points for PR #27"
+    },
+    {
+      "username": "ayushman2710",
+      "points": 3,
+      "date": "2025-04-01T17:20:05+00:00",
+      "pr_number": 23,
+      "reason": "April 1-5 Event: 3 points for PR #23"
     }
   ],
   "metadata": {
     "event": "April 1-5 PR Challenge",
     "points_per_pr": 3,
     "max_points": 15,
-    "calculated_at": "2025-05-25T01:25:48.070192+00:00",
+    "calculated_at": "2025-05-26T01:20:52.045895+00:00",
     "total_participants": 20
   }
 }
