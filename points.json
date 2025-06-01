@@ -1,6 +1,6 @@
 {
   "users": {
-    "winsome-nandini": 15,
+    "winsome-nandini": 10,
     "Ayush-vishwakarma-git": 15,
     "Devilwelcometohell": 15,
     "palakrawat30": 15,
@@ -24,7 +24,7 @@
   "history": [
     {
       "username": "winsome-nandini",
-      "points": 3,
+      "points": 10,
       "date": "2025-04-05T19:20:40+00:00",
       "pr_number": 86,
       "reason": "April 1-5 Event: 3 points for PR #86"
