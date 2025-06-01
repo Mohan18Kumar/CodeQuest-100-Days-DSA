@@ -1,5 +1,4 @@
-def fibonacci(n,mem):
-    mem = {}
+def fibonacci(n,mem={}):
     if n in mem:
         return mem[n]
     if n <= 1:
